@@ -13,38 +13,38 @@ This project is a Discord gift code generator and validator. It uses multithread
 ## Usage 
  
 1. Clone the repository: 
-   \`\`\`sh 
+   ```sh 
    git clone https://github.com/borgox/XGEN.git
-   \`\`\` 
+   ``` 
  
 2. Navigate to the project directory: 
-   \`\`\`sh 
+   ```sh 
    cd XGEN
-   \`\`\` 
+   ``` 
  
 3. Install the required packages: 
-   \`\`\`sh 
+   ```sh 
    pip install -r requirements.txt 
-   \`\`\` 
+   ``` 
  
 4. Run the generator: 
-   \`\`\`sh 
+   ```sh 
    python main.py
-   \`\`\` 
+   ``` 
  
 ## Proxies 
  
 You can scrape and validate proxies by using the included proxy scraping and validation scripts. 
  
 1. Scrape proxies: 
-   \`\`\`sh 
+   ```sh 
    python scrape_proxies.py 
-   \`\`\` 
+   ``` 
  
 2. Validate proxies: 
-   \`\`\`sh 
+   ```sh 
    python validate_proxies.py 
-   \`\`\` 
+   ```
  
 ## License 
  
