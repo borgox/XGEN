@@ -3,6 +3,7 @@
 ## Description 
  
 This project is a Discord gift code generator and validator. It uses multithreading to generate multiple codes and validate them efficiently. 
+This was made for fun tbh, to generate a valid one it would take you more than 500_000 years (assuming there is only one in discord) 
  
 ## Features 
  
